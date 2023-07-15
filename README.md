@@ -1,0 +1,1 @@
+## Creazione e inpostazione di una ANN Functional Keras con l'applicazione delle Residual Networks
